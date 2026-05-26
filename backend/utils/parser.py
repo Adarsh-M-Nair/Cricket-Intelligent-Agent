@@ -102,24 +102,37 @@ class CricketMatchParser:
     return {"match_info": match_info, "innings_data": innings_data}
 
   def parse_all_matches(self):
-    """
-    Parse all JSON match files inside dataset folder
-    """
+
     all_matches = []
-    json_files = Path(self.data_path).glob("*.json")
+
+    json_files = list(Path(self.data_path).glob("*.json"))
+
+    print(f"\nJSON Files Found: {len(json_files)}")
+
     for file in json_files:
-      try:
-        parsed_match = self.parse_match(file)
-        all_matches.append(parsed_match)
-        print(f"Parsed: {file.name}")
-      except Exception as e:
-        print(f"Error parsing {file.name}: {e}")
+
+        try:
+
+            parsed_match = self.parse_match(file)
+
+            all_matches.append(parsed_match)
+
+            print(f"Parsed: {file.name}")
+
+        except Exception as e:
+
+            print(f"Error parsing {file.name}: {e}")
+
     return all_matches
 
 
 if __name__ == "__main__":
 
-    DATASET_PATH = "../../data/raw/ipl/ipl_json"
+    BASE_DIR = Path(__file__).resolve().parent.parent.parent
+
+    DATASET_PATH = BASE_DIR / "data" / "raw" / "ipl" / "ipl_json"
+
+    print(f"\nDataset Path: {DATASET_PATH}")
 
     parser = CricketMatchParser(DATASET_PATH)
 
