@@ -1,0 +1,2869 @@
+[
+    {
+        "id": "batting_1",
+        "text": "DA Warner scored 631 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DA Warner",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_2",
+        "text": "S Dhawan scored 484 runs in the IPL dataset.",
+        "metadata": {
+            "player": "S Dhawan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_3",
+        "text": "G Gambhir scored 484 runs in the IPL dataset.",
+        "metadata": {
+            "player": "G Gambhir",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_4",
+        "text": "SK Raina scored 454 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SK Raina",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_5",
+        "text": "SPD Smith scored 438 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SPD Smith",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_6",
+        "text": "HM Amla scored 436 runs in the IPL dataset.",
+        "metadata": {
+            "player": "HM Amla",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_7",
+        "text": "RV Uthappa scored 411 runs in the IPL dataset.",
+        "metadata": {
+            "player": "RV Uthappa",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_8",
+        "text": "MK Pandey scored 410 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MK Pandey",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_9",
+        "text": "PA Patel scored 405 runs in the IPL dataset.",
+        "metadata": {
+            "player": "PA Patel",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_10",
+        "text": "RA Tripathi scored 404 runs in the IPL dataset.",
+        "metadata": {
+            "player": "RA Tripathi",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_11",
+        "text": "KA Pollard scored 402 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KA Pollard",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_12",
+        "text": "SV Samson scored 395 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SV Samson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_13",
+        "text": "KD Karthik scored 380 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KD Karthik",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_14",
+        "text": "RR Pant scored 375 runs in the IPL dataset.",
+        "metadata": {
+            "player": "RR Pant",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_15",
+        "text": "SS Iyer scored 352 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SS Iyer",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_16",
+        "text": "N Rana scored 351 runs in the IPL dataset.",
+        "metadata": {
+            "player": "N Rana",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_17",
+        "text": "AM Rahane scored 344 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AM Rahane",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_18",
+        "text": "GJ Maxwell scored 335 runs in the IPL dataset.",
+        "metadata": {
+            "player": "GJ Maxwell",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_19",
+        "text": "BB McCullum scored 334 runs in the IPL dataset.",
+        "metadata": {
+            "player": "BB McCullum",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_20",
+        "text": "MK Tiwary scored 330 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MK Tiwary",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_21",
+        "text": "BA Stokes scored 324 runs in the IPL dataset.",
+        "metadata": {
+            "player": "BA Stokes",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_22",
+        "text": "AJ Finch scored 319 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AJ Finch",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_23",
+        "text": "V Kohli scored 314 runs in the IPL dataset.",
+        "metadata": {
+            "player": "V Kohli",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_24",
+        "text": "CA Lynn scored 306 runs in the IPL dataset.",
+        "metadata": {
+            "player": "CA Lynn",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_25",
+        "text": "RG Sharma scored 298 runs in the IPL dataset.",
+        "metadata": {
+            "player": "RG Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_26",
+        "text": "MS Dhoni scored 297 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MS Dhoni",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_27",
+        "text": "KK Nair scored 297 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KK Nair",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_28",
+        "text": "JC Buttler scored 290 runs in the IPL dataset.",
+        "metadata": {
+            "player": "JC Buttler",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_29",
+        "text": "Ishan Kishan scored 289 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Ishan Kishan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_30",
+        "text": "MC Henriques scored 283 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MC Henriques",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_31",
+        "text": "KM Jadhav scored 281 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KM Jadhav",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_32",
+        "text": "SE Marsh scored 274 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SE Marsh",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_33",
+        "text": "HH Pandya scored 258 runs in the IPL dataset.",
+        "metadata": {
+            "player": "HH Pandya",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_34",
+        "text": "Yuvraj Singh scored 256 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Yuvraj Singh",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_35",
+        "text": "M Vohra scored 250 runs in the IPL dataset.",
+        "metadata": {
+            "player": "M Vohra",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_36",
+        "text": "WP Saha scored 245 runs in the IPL dataset.",
+        "metadata": {
+            "player": "WP Saha",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_37",
+        "text": "DR Smith scored 244 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DR Smith",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_38",
+        "text": "KS Williamson scored 240 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KS Williamson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_39",
+        "text": "AR Patel scored 237 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AR Patel",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_40",
+        "text": "AB de Villiers scored 233 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AB de Villiers",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_41",
+        "text": "SP Narine scored 225 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SP Narine",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_42",
+        "text": "CH Gayle scored 217 runs in the IPL dataset.",
+        "metadata": {
+            "player": "CH Gayle",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_43",
+        "text": "Mandeep Singh scored 193 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Mandeep Singh",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_44",
+        "text": "RA Jadeja scored 164 runs in the IPL dataset.",
+        "metadata": {
+            "player": "RA Jadeja",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_45",
+        "text": "KH Pandya scored 163 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KH Pandya",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_46",
+        "text": "CH Morris scored 158 runs in the IPL dataset.",
+        "metadata": {
+            "player": "CH Morris",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_47",
+        "text": "YK Pathan scored 155 runs in the IPL dataset.",
+        "metadata": {
+            "player": "YK Pathan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_48",
+        "text": "P Negi scored 154 runs in the IPL dataset.",
+        "metadata": {
+            "player": "P Negi",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_49",
+        "text": "TM Head scored 153 runs in the IPL dataset.",
+        "metadata": {
+            "player": "TM Head",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_50",
+        "text": "CJ Anderson scored 152 runs in the IPL dataset.",
+        "metadata": {
+            "player": "CJ Anderson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_51",
+        "text": "SW Billings scored 143 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SW Billings",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_52",
+        "text": "LMP Simmons scored 140 runs in the IPL dataset.",
+        "metadata": {
+            "player": "LMP Simmons",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_53",
+        "text": "MJ Guptill scored 133 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MJ Guptill",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_54",
+        "text": "C de Grandhomme scored 130 runs in the IPL dataset.",
+        "metadata": {
+            "player": "C de Grandhomme",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_55",
+        "text": "DA Miller scored 89 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DA Miller",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_56",
+        "text": "V Shankar scored 80 runs in the IPL dataset.",
+        "metadata": {
+            "player": "V Shankar",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_57",
+        "text": "STR Binny scored 80 runs in the IPL dataset.",
+        "metadata": {
+            "player": "STR Binny",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_58",
+        "text": "DT Christian scored 80 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DT Christian",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_59",
+        "text": "PJ Cummins scored 79 runs in the IPL dataset.",
+        "metadata": {
+            "player": "PJ Cummins",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_60",
+        "text": "DJ Hooda scored 79 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DJ Hooda",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_61",
+        "text": "SR Watson scored 75 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SR Watson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_62",
+        "text": "SA Yadav scored 75 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SA Yadav",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_63",
+        "text": "AT Rayudu scored 74 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AT Rayudu",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_64",
+        "text": "NV Ojha scored 67 runs in the IPL dataset.",
+        "metadata": {
+            "player": "NV Ojha",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_65",
+        "text": "EJG Morgan scored 66 runs in the IPL dataset.",
+        "metadata": {
+            "player": "EJG Morgan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_66",
+        "text": "K Rabada scored 60 runs in the IPL dataset.",
+        "metadata": {
+            "player": "K Rabada",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_67",
+        "text": "JJ Roy scored 60 runs in the IPL dataset.",
+        "metadata": {
+            "player": "JJ Roy",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_68",
+        "text": "JP Faulkner scored 58 runs in the IPL dataset.",
+        "metadata": {
+            "player": "JP Faulkner",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_69",
+        "text": "SS Tiwary scored 57 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SS Tiwary",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_70",
+        "text": "AJ Tye scored 56 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AJ Tye",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_71",
+        "text": "A Mishra scored 55 runs in the IPL dataset.",
+        "metadata": {
+            "player": "A Mishra",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_72",
+        "text": "MM Sharma scored 52 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MM Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_73",
+        "text": "BCJ Cutting scored 52 runs in the IPL dataset.",
+        "metadata": {
+            "player": "BCJ Cutting",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_74",
+        "text": "KV Sharma scored 49 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KV Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_75",
+        "text": "CR Woakes scored 46 runs in the IPL dataset.",
+        "metadata": {
+            "player": "CR Woakes",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_76",
+        "text": "SP Jackson scored 38 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SP Jackson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_77",
+        "text": "Mohammed Shami scored 37 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Mohammed Shami",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_78",
+        "text": "S Aravind scored 35 runs in the IPL dataset.",
+        "metadata": {
+            "player": "S Aravind",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_79",
+        "text": "AD Mathews scored 33 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AD Mathews",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_80",
+        "text": "Basil Thampi scored 32 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Basil Thampi",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_81",
+        "text": "Bipul Sharma scored 31 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Bipul Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_82",
+        "text": "MN Samuels scored 30 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MN Samuels",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_83",
+        "text": "MA Agarwal scored 29 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MA Agarwal",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_84",
+        "text": "Ankit Sharma scored 26 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Ankit Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_85",
+        "text": "A Choudhary scored 25 runs in the IPL dataset.",
+        "metadata": {
+            "player": "A Choudhary",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_86",
+        "text": "AP Tare scored 21 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AP Tare",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_87",
+        "text": "R Tewatia scored 20 runs in the IPL dataset.",
+        "metadata": {
+            "player": "R Tewatia",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_88",
+        "text": "Kuldeep Yadav scored 20 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Kuldeep Yadav",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_89",
+        "text": "Vishnu Vinod scored 19 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Vishnu Vinod",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_90",
+        "text": "Harbhajan Singh scored 19 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Harbhajan Singh",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_91",
+        "text": "MP Stoinis scored 18 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MP Stoinis",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_92",
+        "text": "Sachin Baby scored 17 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Sachin Baby",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_93",
+        "text": "R Bhatia scored 17 runs in the IPL dataset.",
+        "metadata": {
+            "player": "R Bhatia",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_94",
+        "text": "MJ McClenaghan scored 17 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MJ McClenaghan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_95",
+        "text": "JJ Bumrah scored 16 runs in the IPL dataset.",
+        "metadata": {
+            "player": "JJ Bumrah",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_96",
+        "text": "S Badree scored 15 runs in the IPL dataset.",
+        "metadata": {
+            "player": "S Badree",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_97",
+        "text": "Anureet Singh scored 15 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Anureet Singh",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_98",
+        "text": "DL Chahar scored 14 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DL Chahar",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_99",
+        "text": "YS Chahal scored 13 runs in the IPL dataset.",
+        "metadata": {
+            "player": "YS Chahal",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_100",
+        "text": "CR Brathwaite scored 13 runs in the IPL dataset.",
+        "metadata": {
+            "player": "CR Brathwaite",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_101",
+        "text": "Swapnil Singh scored 12 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Swapnil Singh",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_102",
+        "text": "Rashid Khan scored 12 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Rashid Khan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_103",
+        "text": "AR Bawne scored 12 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AR Bawne",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_104",
+        "text": "Washington Sundar scored 11 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Washington Sundar",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_105",
+        "text": "TS Mills scored 9 runs in the IPL dataset.",
+        "metadata": {
+            "player": "TS Mills",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_106",
+        "text": "Sandeep Sharma scored 9 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Sandeep Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_107",
+        "text": "NM Coulter-Nile scored 9 runs in the IPL dataset.",
+        "metadata": {
+            "player": "NM Coulter-Nile",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_108",
+        "text": "I Sharma scored 9 runs in the IPL dataset.",
+        "metadata": {
+            "player": "I Sharma",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_109",
+        "text": "Ankit Soni scored 9 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Ankit Soni",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_110",
+        "text": "UT Yadav scored 8 runs in the IPL dataset.",
+        "metadata": {
+            "player": "UT Yadav",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_111",
+        "text": "P Kumar scored 8 runs in the IPL dataset.",
+        "metadata": {
+            "player": "P Kumar",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_112",
+        "text": "F du Plessis scored 8 runs in the IPL dataset.",
+        "metadata": {
+            "player": "F du Plessis",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_113",
+        "text": "AB Dinda scored 8 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AB Dinda",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_114",
+        "text": "TG Southee scored 7 runs in the IPL dataset.",
+        "metadata": {
+            "player": "TG Southee",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_115",
+        "text": "SL Malinga scored 7 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SL Malinga",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_116",
+        "text": "MG Johnson scored 7 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MG Johnson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_117",
+        "text": "AF Milne scored 7 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AF Milne",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_118",
+        "text": "DM Bravo scored 6 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DM Bravo",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_119",
+        "text": "VR Aaron scored 5 runs in the IPL dataset.",
+        "metadata": {
+            "player": "VR Aaron",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_120",
+        "text": "TA Boult scored 5 runs in the IPL dataset.",
+        "metadata": {
+            "player": "TA Boult",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_121",
+        "text": "Iqbal Abdulla scored 5 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Iqbal Abdulla",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_122",
+        "text": "A Zampa scored 5 runs in the IPL dataset.",
+        "metadata": {
+            "player": "A Zampa",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_123",
+        "text": "Z Khan scored 4 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Z Khan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_124",
+        "text": "B Kumar scored 4 runs in the IPL dataset.",
+        "metadata": {
+            "player": "B Kumar",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_125",
+        "text": "S Nadeem scored 3 runs in the IPL dataset.",
+        "metadata": {
+            "player": "S Nadeem",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_126",
+        "text": "RD Chahar scored 3 runs in the IPL dataset.",
+        "metadata": {
+            "player": "RD Chahar",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_127",
+        "text": "JD Unadkat scored 3 runs in the IPL dataset.",
+        "metadata": {
+            "player": "JD Unadkat",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_128",
+        "text": "PJ Sangwan scored 2 runs in the IPL dataset.",
+        "metadata": {
+            "player": "PJ Sangwan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_129",
+        "text": "Mohammad Nabi scored 2 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Mohammad Nabi",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_130",
+        "text": "KC Cariappa scored 2 runs in the IPL dataset.",
+        "metadata": {
+            "player": "KC Cariappa",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_131",
+        "text": "IK Pathan scored 2 runs in the IPL dataset.",
+        "metadata": {
+            "player": "IK Pathan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_132",
+        "text": "Shakib Al Hasan scored 1 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Shakib Al Hasan",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_133",
+        "text": "LH Ferguson scored 1 runs in the IPL dataset.",
+        "metadata": {
+            "player": "LH Ferguson",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_134",
+        "text": "DS Kulkarni scored 1 runs in the IPL dataset.",
+        "metadata": {
+            "player": "DS Kulkarni",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_135",
+        "text": "SN Thakur scored 0 runs in the IPL dataset.",
+        "metadata": {
+            "player": "SN Thakur",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_136",
+        "text": "S Kaul scored 0 runs in the IPL dataset.",
+        "metadata": {
+            "player": "S Kaul",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_137",
+        "text": "MM Patel scored 0 runs in the IPL dataset.",
+        "metadata": {
+            "player": "MM Patel",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_138",
+        "text": "Imran Tahir scored 0 runs in the IPL dataset.",
+        "metadata": {
+            "player": "Imran Tahir",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "batting_139",
+        "text": "AD Nath scored 0 runs in the IPL dataset.",
+        "metadata": {
+            "player": "AD Nath",
+            "type": "batting_stats"
+        }
+    },
+    {
+        "id": "match_1",
+        "text": "Sunrisers Hyderabad played against Royal Challengers Bangalore at Rajiv Gandhi International Stadium, Uppal. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "1",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_2",
+        "text": "Rising Pune Supergiant played against Mumbai Indians at Maharashtra Cricket Association Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "2",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_3",
+        "text": "Gujarat Lions played against Kolkata Knight Riders at Saurashtra Cricket Association Stadium. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "3",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_4",
+        "text": "Kings XI Punjab played against Rising Pune Supergiant at Holkar Cricket Stadium. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "4",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_5",
+        "text": "Royal Challengers Bangalore played against Delhi Daredevils at M.Chinnaswamy Stadium. Royal Challengers Bangalore won the match.",
+        "metadata": {
+            "match_id": "5",
+            "winner": "Royal Challengers Bangalore",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_6",
+        "text": "Sunrisers Hyderabad played against Gujarat Lions at Rajiv Gandhi International Stadium, Uppal. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "6",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_7",
+        "text": "Mumbai Indians played against Kolkata Knight Riders at Wankhede Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "7",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_8",
+        "text": "Kings XI Punjab played against Royal Challengers Bangalore at Holkar Cricket Stadium. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "8",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_9",
+        "text": "Rising Pune Supergiant played against Delhi Daredevils at Maharashtra Cricket Association Stadium. Delhi Daredevils won the match.",
+        "metadata": {
+            "match_id": "9",
+            "winner": "Delhi Daredevils",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_10",
+        "text": "Mumbai Indians played against Sunrisers Hyderabad at Wankhede Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "10",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_11",
+        "text": "Kolkata Knight Riders played against Kings XI Punjab at Eden Gardens. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "11",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_12",
+        "text": "Royal Challengers Bangalore played against Mumbai Indians at M Chinnaswamy Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "12",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_13",
+        "text": "Gujarat Lions played against Rising Pune Supergiant at Saurashtra Cricket Association Stadium. Gujarat Lions won the match.",
+        "metadata": {
+            "match_id": "13",
+            "winner": "Gujarat Lions",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_14",
+        "text": "Kolkata Knight Riders played against Sunrisers Hyderabad at Eden Gardens. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "14",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_15",
+        "text": "Delhi Daredevils played against Kings XI Punjab at Feroz Shah Kotla. Delhi Daredevils won the match.",
+        "metadata": {
+            "match_id": "15",
+            "winner": "Delhi Daredevils",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_16",
+        "text": "Mumbai Indians played against Gujarat Lions at Wankhede Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "16",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_17",
+        "text": "Royal Challengers Bangalore played against Rising Pune Supergiant at M Chinnaswamy Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "17",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_18",
+        "text": "Delhi Daredevils played against Kolkata Knight Riders at Feroz Shah Kotla. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "18",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_19",
+        "text": "Sunrisers Hyderabad played against Kings XI Punjab at Rajiv Gandhi International Stadium, Uppal. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "19",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_20",
+        "text": "Gujarat Lions played against Royal Challengers Bangalore at Saurashtra Cricket Association Stadium. Royal Challengers Bangalore won the match.",
+        "metadata": {
+            "match_id": "20",
+            "winner": "Royal Challengers Bangalore",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_21",
+        "text": "Sunrisers Hyderabad played against Delhi Daredevils at Rajiv Gandhi International Stadium, Uppal. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "21",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_22",
+        "text": "Kings XI Punjab played against Mumbai Indians at Holkar Cricket Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "22",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_23",
+        "text": "Kolkata Knight Riders played against Gujarat Lions at Eden Gardens. Gujarat Lions won the match.",
+        "metadata": {
+            "match_id": "23",
+            "winner": "Gujarat Lions",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_24",
+        "text": "Mumbai Indians played against Delhi Daredevils at Wankhede Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "25",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_25",
+        "text": "Rising Pune Supergiant played against Sunrisers Hyderabad at Maharashtra Cricket Association Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "24",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_26",
+        "text": "Gujarat Lions played against Kings XI Punjab at Saurashtra Cricket Association Stadium. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "26",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_27",
+        "text": "Kolkata Knight Riders played against Royal Challengers Bangalore at Eden Gardens. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "27",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_28",
+        "text": "Mumbai Indians played against Rising Pune Supergiant at Wankhede Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "28",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_29",
+        "text": "Rising Pune Supergiant played against Kolkata Knight Riders at Maharashtra Cricket Association Stadium. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "30",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_30",
+        "text": "Royal Challengers Bangalore played against Gujarat Lions at M Chinnaswamy Stadium. Gujarat Lions won the match.",
+        "metadata": {
+            "match_id": "31",
+            "winner": "Gujarat Lions",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_31",
+        "text": "Kolkata Knight Riders played against Delhi Daredevils at Eden Gardens. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "32",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_32",
+        "text": "Kings XI Punjab played against Sunrisers Hyderabad at Punjab Cricket Association IS Bindra Stadium, Mohali. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "33",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_33",
+        "text": "Rising Pune Supergiant played against Royal Challengers Bangalore at Maharashtra Cricket Association Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "34",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_34",
+        "text": "Gujarat Lions played against Mumbai Indians at Saurashtra Cricket Association Stadium. No Result won the match.",
+        "metadata": {
+            "match_id": "35",
+            "winner": "No Result",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_35",
+        "text": "Kings XI Punjab played against Delhi Daredevils at Punjab Cricket Association IS Bindra Stadium, Mohali. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "36",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_36",
+        "text": "Sunrisers Hyderabad played against Kolkata Knight Riders at Rajiv Gandhi International Stadium, Uppal. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "37",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_37",
+        "text": "Mumbai Indians played against Royal Challengers Bangalore at Wankhede Stadium. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "38",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_38",
+        "text": "Rising Pune Supergiant played against Gujarat Lions at Maharashtra Cricket Association Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "39",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_39",
+        "text": "Delhi Daredevils played against Sunrisers Hyderabad at Feroz Shah Kotla. Delhi Daredevils won the match.",
+        "metadata": {
+            "match_id": "40",
+            "winner": "Delhi Daredevils",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_40",
+        "text": "Kolkata Knight Riders played against Rising Pune Supergiant at Eden Gardens. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "41",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_41",
+        "text": "Delhi Daredevils played against Gujarat Lions at Feroz Shah Kotla. Delhi Daredevils won the match.",
+        "metadata": {
+            "match_id": "42",
+            "winner": "Delhi Daredevils",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_42",
+        "text": "Royal Challengers Bangalore played against Kings XI Punjab at M Chinnaswamy Stadium. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "43",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_43",
+        "text": "Sunrisers Hyderabad played against Rising Pune Supergiant at Rajiv Gandhi International Stadium, Uppal. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "44",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_44",
+        "text": "Delhi Daredevils played against Mumbai Indians at Feroz Shah Kotla. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "45",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_45",
+        "text": "Royal Challengers Bangalore played against Kolkata Knight Riders at M Chinnaswamy Stadium. Kolkata Knight Riders won the match.",
+        "metadata": {
+            "match_id": "46",
+            "winner": "Kolkata Knight Riders",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_46",
+        "text": "Kings XI Punjab played against Gujarat Lions at Punjab Cricket Association IS Bindra Stadium, Mohali. Gujarat Lions won the match.",
+        "metadata": {
+            "match_id": "47",
+            "winner": "Gujarat Lions",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_47",
+        "text": "Sunrisers Hyderabad played against Mumbai Indians at Rajiv Gandhi International Stadium, Uppal. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "48",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_48",
+        "text": "Kings XI Punjab played against Kolkata Knight Riders at Punjab Cricket Association IS Bindra Stadium, Mohali. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "49",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_49",
+        "text": "Gujarat Lions played against Delhi Daredevils at Green Park. Delhi Daredevils won the match.",
+        "metadata": {
+            "match_id": "50",
+            "winner": "Delhi Daredevils",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_50",
+        "text": "Mumbai Indians played against Kings XI Punjab at Wankhede Stadium. Kings XI Punjab won the match.",
+        "metadata": {
+            "match_id": "51",
+            "winner": "Kings XI Punjab",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_51",
+        "text": "Delhi Daredevils played against Rising Pune Supergiant at Feroz Shah Kotla. Delhi Daredevils won the match.",
+        "metadata": {
+            "match_id": "52",
+            "winner": "Delhi Daredevils",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_52",
+        "text": "Gujarat Lions played against Sunrisers Hyderabad at Green Park. Sunrisers Hyderabad won the match.",
+        "metadata": {
+            "match_id": "53",
+            "winner": "Sunrisers Hyderabad",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_53",
+        "text": "Kolkata Knight Riders played against Mumbai Indians at Eden Gardens. Mumbai Indians won the match.",
+        "metadata": {
+            "match_id": "54",
+            "winner": "Mumbai Indians",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_54",
+        "text": "Rising Pune Supergiant played against Kings XI Punjab at Maharashtra Cricket Association Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "55",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_55",
+        "text": "Delhi Daredevils played against Royal Challengers Bangalore at Feroz Shah Kotla. Royal Challengers Bangalore won the match.",
+        "metadata": {
+            "match_id": "56",
+            "winner": "Royal Challengers Bangalore",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "match_56",
+        "text": "Mumbai Indians played against Rising Pune Supergiant at Wankhede Stadium. Rising Pune Supergiant won the match.",
+        "metadata": {
+            "match_id": "N/A",
+            "winner": "Rising Pune Supergiant",
+            "type": "match_summary"
+        }
+    },
+    {
+        "id": "strike_rate_1",
+        "text": "DA Warner has a strike rate of 147.78 in the IPL dataset.",
+        "metadata": {
+            "player": "DA Warner",
+            "strike_rate": 147.78,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_2",
+        "text": "S Dhawan has a strike rate of 130.81 in the IPL dataset.",
+        "metadata": {
+            "player": "S Dhawan",
+            "strike_rate": 130.81,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_3",
+        "text": "MC Henriques has a strike rate of 138.05 in the IPL dataset.",
+        "metadata": {
+            "player": "MC Henriques",
+            "strike_rate": 138.05,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_4",
+        "text": "Yuvraj Singh has a strike rate of 143.02 in the IPL dataset.",
+        "metadata": {
+            "player": "Yuvraj Singh",
+            "strike_rate": 143.02,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_5",
+        "text": "DJ Hooda has a strike rate of 149.06 in the IPL dataset.",
+        "metadata": {
+            "player": "DJ Hooda",
+            "strike_rate": 149.06,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_6",
+        "text": "BCJ Cutting has a strike rate of 192.59 in the IPL dataset.",
+        "metadata": {
+            "player": "BCJ Cutting",
+            "strike_rate": 192.59,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_7",
+        "text": "CH Gayle has a strike rate of 126.16 in the IPL dataset.",
+        "metadata": {
+            "player": "CH Gayle",
+            "strike_rate": 126.16,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_8",
+        "text": "Mandeep Singh has a strike rate of 108.43 in the IPL dataset.",
+        "metadata": {
+            "player": "Mandeep Singh",
+            "strike_rate": 108.43,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_9",
+        "text": "TM Head has a strike rate of 140.37 in the IPL dataset.",
+        "metadata": {
+            "player": "TM Head",
+            "strike_rate": 140.37,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_10",
+        "text": "KM Jadhav has a strike rate of 144.85 in the IPL dataset.",
+        "metadata": {
+            "player": "KM Jadhav",
+            "strike_rate": 144.85,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_11",
+        "text": "SR Watson has a strike rate of 93.75 in the IPL dataset.",
+        "metadata": {
+            "player": "SR Watson",
+            "strike_rate": 93.75,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_12",
+        "text": "Sachin Baby has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "Sachin Baby",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_13",
+        "text": "STR Binny has a strike rate of 103.9 in the IPL dataset.",
+        "metadata": {
+            "player": "STR Binny",
+            "strike_rate": 103.9,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_14",
+        "text": "S Aravind has a strike rate of 87.5 in the IPL dataset.",
+        "metadata": {
+            "player": "S Aravind",
+            "strike_rate": 87.5,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_15",
+        "text": "YS Chahal has a strike rate of 50.0 in the IPL dataset.",
+        "metadata": {
+            "player": "YS Chahal",
+            "strike_rate": 50.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_16",
+        "text": "TS Mills has a strike rate of 81.82 in the IPL dataset.",
+        "metadata": {
+            "player": "TS Mills",
+            "strike_rate": 81.82,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_17",
+        "text": "A Choudhary has a strike rate of 125.0 in the IPL dataset.",
+        "metadata": {
+            "player": "A Choudhary",
+            "strike_rate": 125.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_18",
+        "text": "PA Patel has a strike rate of 138.23 in the IPL dataset.",
+        "metadata": {
+            "player": "PA Patel",
+            "strike_rate": 138.23,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_19",
+        "text": "JC Buttler has a strike rate of 155.91 in the IPL dataset.",
+        "metadata": {
+            "player": "JC Buttler",
+            "strike_rate": 155.91,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_20",
+        "text": "RG Sharma has a strike rate of 129.0 in the IPL dataset.",
+        "metadata": {
+            "player": "RG Sharma",
+            "strike_rate": 129.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_21",
+        "text": "N Rana has a strike rate of 126.71 in the IPL dataset.",
+        "metadata": {
+            "player": "N Rana",
+            "strike_rate": 126.71,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_22",
+        "text": "AT Rayudu has a strike rate of 142.31 in the IPL dataset.",
+        "metadata": {
+            "player": "AT Rayudu",
+            "strike_rate": 142.31,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_23",
+        "text": "KH Pandya has a strike rate of 141.74 in the IPL dataset.",
+        "metadata": {
+            "player": "KH Pandya",
+            "strike_rate": 141.74,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_24",
+        "text": "KA Pollard has a strike rate of 143.06 in the IPL dataset.",
+        "metadata": {
+            "player": "KA Pollard",
+            "strike_rate": 143.06,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_25",
+        "text": "HH Pandya has a strike rate of 158.28 in the IPL dataset.",
+        "metadata": {
+            "player": "HH Pandya",
+            "strike_rate": 158.28,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_26",
+        "text": "TG Southee has a strike rate of 233.33 in the IPL dataset.",
+        "metadata": {
+            "player": "TG Southee",
+            "strike_rate": 233.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_27",
+        "text": "AM Rahane has a strike rate of 118.62 in the IPL dataset.",
+        "metadata": {
+            "player": "AM Rahane",
+            "strike_rate": 118.62,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_28",
+        "text": "MA Agarwal has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "MA Agarwal",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_29",
+        "text": "SPD Smith has a strike rate of 126.22 in the IPL dataset.",
+        "metadata": {
+            "player": "SPD Smith",
+            "strike_rate": 126.22,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_30",
+        "text": "BA Stokes has a strike rate of 142.73 in the IPL dataset.",
+        "metadata": {
+            "player": "BA Stokes",
+            "strike_rate": 142.73,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_31",
+        "text": "MS Dhoni has a strike rate of 119.76 in the IPL dataset.",
+        "metadata": {
+            "player": "MS Dhoni",
+            "strike_rate": 119.76,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_32",
+        "text": "JJ Roy has a strike rate of 146.34 in the IPL dataset.",
+        "metadata": {
+            "player": "JJ Roy",
+            "strike_rate": 146.34,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_33",
+        "text": "BB McCullum has a strike rate of 147.14 in the IPL dataset.",
+        "metadata": {
+            "player": "BB McCullum",
+            "strike_rate": 147.14,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_34",
+        "text": "SK Raina has a strike rate of 146.45 in the IPL dataset.",
+        "metadata": {
+            "player": "SK Raina",
+            "strike_rate": 146.45,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_35",
+        "text": "AJ Finch has a strike rate of 167.89 in the IPL dataset.",
+        "metadata": {
+            "player": "AJ Finch",
+            "strike_rate": 167.89,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_36",
+        "text": "KD Karthik has a strike rate of 141.79 in the IPL dataset.",
+        "metadata": {
+            "player": "KD Karthik",
+            "strike_rate": 141.79,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_37",
+        "text": "G Gambhir has a strike rate of 131.52 in the IPL dataset.",
+        "metadata": {
+            "player": "G Gambhir",
+            "strike_rate": 131.52,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_38",
+        "text": "CA Lynn has a strike rate of 185.45 in the IPL dataset.",
+        "metadata": {
+            "player": "CA Lynn",
+            "strike_rate": 185.45,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_39",
+        "text": "MK Tiwary has a strike rate of 141.03 in the IPL dataset.",
+        "metadata": {
+            "player": "MK Tiwary",
+            "strike_rate": 141.03,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_40",
+        "text": "DT Christian has a strike rate of 160.0 in the IPL dataset.",
+        "metadata": {
+            "player": "DT Christian",
+            "strike_rate": 160.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_41",
+        "text": "HM Amla has a strike rate of 147.3 in the IPL dataset.",
+        "metadata": {
+            "player": "HM Amla",
+            "strike_rate": 147.3,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_42",
+        "text": "M Vohra has a strike rate of 147.06 in the IPL dataset.",
+        "metadata": {
+            "player": "M Vohra",
+            "strike_rate": 147.06,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_43",
+        "text": "WP Saha has a strike rate of 126.29 in the IPL dataset.",
+        "metadata": {
+            "player": "WP Saha",
+            "strike_rate": 126.29,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_44",
+        "text": "AR Patel has a strike rate of 138.6 in the IPL dataset.",
+        "metadata": {
+            "player": "AR Patel",
+            "strike_rate": 138.6,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_45",
+        "text": "GJ Maxwell has a strike rate of 180.11 in the IPL dataset.",
+        "metadata": {
+            "player": "GJ Maxwell",
+            "strike_rate": 180.11,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_46",
+        "text": "DA Miller has a strike rate of 108.54 in the IPL dataset.",
+        "metadata": {
+            "player": "DA Miller",
+            "strike_rate": 108.54,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_47",
+        "text": "Vishnu Vinod has a strike rate of 73.08 in the IPL dataset.",
+        "metadata": {
+            "player": "Vishnu Vinod",
+            "strike_rate": 73.08,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_48",
+        "text": "Iqbal Abdulla has a strike rate of 71.43 in the IPL dataset.",
+        "metadata": {
+            "player": "Iqbal Abdulla",
+            "strike_rate": 71.43,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_49",
+        "text": "P Negi has a strike rate of 135.09 in the IPL dataset.",
+        "metadata": {
+            "player": "P Negi",
+            "strike_rate": 135.09,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_50",
+        "text": "AP Tare has a strike rate of 84.0 in the IPL dataset.",
+        "metadata": {
+            "player": "AP Tare",
+            "strike_rate": 84.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_51",
+        "text": "SW Billings has a strike rate of 133.64 in the IPL dataset.",
+        "metadata": {
+            "player": "SW Billings",
+            "strike_rate": 133.64,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_52",
+        "text": "KK Nair has a strike rate of 129.69 in the IPL dataset.",
+        "metadata": {
+            "player": "KK Nair",
+            "strike_rate": 129.69,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_53",
+        "text": "SV Samson has a strike rate of 143.64 in the IPL dataset.",
+        "metadata": {
+            "player": "SV Samson",
+            "strike_rate": 143.64,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_54",
+        "text": "RR Pant has a strike rate of 165.93 in the IPL dataset.",
+        "metadata": {
+            "player": "RR Pant",
+            "strike_rate": 165.93,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_55",
+        "text": "CH Morris has a strike rate of 162.89 in the IPL dataset.",
+        "metadata": {
+            "player": "CH Morris",
+            "strike_rate": 162.89,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_56",
+        "text": "CR Brathwaite has a strike rate of 81.25 in the IPL dataset.",
+        "metadata": {
+            "player": "CR Brathwaite",
+            "strike_rate": 81.25,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_57",
+        "text": "PJ Cummins has a strike rate of 146.3 in the IPL dataset.",
+        "metadata": {
+            "player": "PJ Cummins",
+            "strike_rate": 146.3,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_58",
+        "text": "A Mishra has a strike rate of 98.21 in the IPL dataset.",
+        "metadata": {
+            "player": "A Mishra",
+            "strike_rate": 98.21,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_59",
+        "text": "S Nadeem has a strike rate of 33.33 in the IPL dataset.",
+        "metadata": {
+            "player": "S Nadeem",
+            "strike_rate": 33.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_60",
+        "text": "Z Khan has a strike rate of 30.77 in the IPL dataset.",
+        "metadata": {
+            "player": "Z Khan",
+            "strike_rate": 30.77,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_61",
+        "text": "DR Smith has a strike rate of 154.43 in the IPL dataset.",
+        "metadata": {
+            "player": "DR Smith",
+            "strike_rate": 154.43,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_62",
+        "text": "DS Kulkarni has a strike rate of 50.0 in the IPL dataset.",
+        "metadata": {
+            "player": "DS Kulkarni",
+            "strike_rate": 50.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_63",
+        "text": "P Kumar has a strike rate of 88.89 in the IPL dataset.",
+        "metadata": {
+            "player": "P Kumar",
+            "strike_rate": 88.89,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_64",
+        "text": "Basil Thampi has a strike rate of 106.67 in the IPL dataset.",
+        "metadata": {
+            "player": "Basil Thampi",
+            "strike_rate": 106.67,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_65",
+        "text": "RV Uthappa has a strike rate of 176.39 in the IPL dataset.",
+        "metadata": {
+            "player": "RV Uthappa",
+            "strike_rate": 176.39,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_66",
+        "text": "MK Pandey has a strike rate of 130.16 in the IPL dataset.",
+        "metadata": {
+            "player": "MK Pandey",
+            "strike_rate": 130.16,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_67",
+        "text": "YK Pathan has a strike rate of 127.05 in the IPL dataset.",
+        "metadata": {
+            "player": "YK Pathan",
+            "strike_rate": 127.05,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_68",
+        "text": "SA Yadav has a strike rate of 119.05 in the IPL dataset.",
+        "metadata": {
+            "player": "SA Yadav",
+            "strike_rate": 119.05,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_69",
+        "text": "CR Woakes has a strike rate of 97.87 in the IPL dataset.",
+        "metadata": {
+            "player": "CR Woakes",
+            "strike_rate": 97.87,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_70",
+        "text": "SP Narine has a strike rate of 180.0 in the IPL dataset.",
+        "metadata": {
+            "player": "SP Narine",
+            "strike_rate": 180.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_71",
+        "text": "Harbhajan Singh has a strike rate of 111.76 in the IPL dataset.",
+        "metadata": {
+            "player": "Harbhajan Singh",
+            "strike_rate": 111.76,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_72",
+        "text": "AB de Villiers has a strike rate of 136.26 in the IPL dataset.",
+        "metadata": {
+            "player": "AB de Villiers",
+            "strike_rate": 136.26,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_73",
+        "text": "CJ Anderson has a strike rate of 116.92 in the IPL dataset.",
+        "metadata": {
+            "player": "CJ Anderson",
+            "strike_rate": 116.92,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_74",
+        "text": "F du Plessis has a strike rate of 114.29 in the IPL dataset.",
+        "metadata": {
+            "player": "F du Plessis",
+            "strike_rate": 114.29,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_75",
+        "text": "RA Tripathi has a strike rate of 151.31 in the IPL dataset.",
+        "metadata": {
+            "player": "RA Tripathi",
+            "strike_rate": 151.31,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_76",
+        "text": "R Bhatia has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "R Bhatia",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_77",
+        "text": "DL Chahar has a strike rate of 233.33 in the IPL dataset.",
+        "metadata": {
+            "player": "DL Chahar",
+            "strike_rate": 233.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_78",
+        "text": "A Zampa has a strike rate of 71.43 in the IPL dataset.",
+        "metadata": {
+            "player": "A Zampa",
+            "strike_rate": 71.43,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_79",
+        "text": "AB Dinda has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "AB Dinda",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_80",
+        "text": "Imran Tahir has a strike rate of 0.0 in the IPL dataset.",
+        "metadata": {
+            "player": "Imran Tahir",
+            "strike_rate": 0.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_81",
+        "text": "NV Ojha has a strike rate of 126.42 in the IPL dataset.",
+        "metadata": {
+            "player": "NV Ojha",
+            "strike_rate": 126.42,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_82",
+        "text": "V Shankar has a strike rate of 135.59 in the IPL dataset.",
+        "metadata": {
+            "player": "V Shankar",
+            "strike_rate": 135.59,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_83",
+        "text": "Rashid Khan has a strike rate of 133.33 in the IPL dataset.",
+        "metadata": {
+            "player": "Rashid Khan",
+            "strike_rate": 133.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_84",
+        "text": "B Kumar has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "B Kumar",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_85",
+        "text": "MP Stoinis has a strike rate of 72.0 in the IPL dataset.",
+        "metadata": {
+            "player": "MP Stoinis",
+            "strike_rate": 72.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_86",
+        "text": "MM Sharma has a strike rate of 101.96 in the IPL dataset.",
+        "metadata": {
+            "player": "MM Sharma",
+            "strike_rate": 101.96,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_87",
+        "text": "VR Aaron has a strike rate of 45.45 in the IPL dataset.",
+        "metadata": {
+            "player": "VR Aaron",
+            "strike_rate": 45.45,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_88",
+        "text": "V Kohli has a strike rate of 122.18 in the IPL dataset.",
+        "metadata": {
+            "player": "V Kohli",
+            "strike_rate": 122.18,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_89",
+        "text": "MJ McClenaghan has a strike rate of 106.25 in the IPL dataset.",
+        "metadata": {
+            "player": "MJ McClenaghan",
+            "strike_rate": 106.25,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_90",
+        "text": "Ankit Sharma has a strike rate of 162.5 in the IPL dataset.",
+        "metadata": {
+            "player": "Ankit Sharma",
+            "strike_rate": 162.5,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_91",
+        "text": "SN Thakur has a strike rate of 0.0 in the IPL dataset.",
+        "metadata": {
+            "player": "SN Thakur",
+            "strike_rate": 0.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_92",
+        "text": "RD Chahar has a strike rate of 150.0 in the IPL dataset.",
+        "metadata": {
+            "player": "RD Chahar",
+            "strike_rate": 150.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_93",
+        "text": "LH Ferguson has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "LH Ferguson",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_94",
+        "text": "C de Grandhomme has a strike rate of 142.86 in the IPL dataset.",
+        "metadata": {
+            "player": "C de Grandhomme",
+            "strike_rate": 142.86,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_95",
+        "text": "Bipul Sharma has a strike rate of 140.91 in the IPL dataset.",
+        "metadata": {
+            "player": "Bipul Sharma",
+            "strike_rate": 140.91,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_96",
+        "text": "SS Iyer has a strike rate of 141.37 in the IPL dataset.",
+        "metadata": {
+            "player": "SS Iyer",
+            "strike_rate": 141.37,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_97",
+        "text": "EJG Morgan has a strike rate of 106.45 in the IPL dataset.",
+        "metadata": {
+            "player": "EJG Morgan",
+            "strike_rate": 106.45,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_98",
+        "text": "KC Cariappa has a strike rate of 28.57 in the IPL dataset.",
+        "metadata": {
+            "player": "KC Cariappa",
+            "strike_rate": 28.57,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_99",
+        "text": "Sandeep Sharma has a strike rate of 128.57 in the IPL dataset.",
+        "metadata": {
+            "player": "Sandeep Sharma",
+            "strike_rate": 128.57,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_100",
+        "text": "Ishan Kishan has a strike rate of 135.05 in the IPL dataset.",
+        "metadata": {
+            "player": "Ishan Kishan",
+            "strike_rate": 135.05,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_101",
+        "text": "JD Unadkat has a strike rate of 60.0 in the IPL dataset.",
+        "metadata": {
+            "player": "JD Unadkat",
+            "strike_rate": 60.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_102",
+        "text": "AF Milne has a strike rate of 58.33 in the IPL dataset.",
+        "metadata": {
+            "player": "AF Milne",
+            "strike_rate": 58.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_103",
+        "text": "S Badree has a strike rate of 60.0 in the IPL dataset.",
+        "metadata": {
+            "player": "S Badree",
+            "strike_rate": 60.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_104",
+        "text": "AD Mathews has a strike rate of 117.86 in the IPL dataset.",
+        "metadata": {
+            "player": "AD Mathews",
+            "strike_rate": 117.86,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_105",
+        "text": "Mohammed Shami has a strike rate of 154.17 in the IPL dataset.",
+        "metadata": {
+            "player": "Mohammed Shami",
+            "strike_rate": 154.17,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_106",
+        "text": "Mohammad Nabi has a strike rate of 66.67 in the IPL dataset.",
+        "metadata": {
+            "player": "Mohammad Nabi",
+            "strike_rate": 66.67,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_107",
+        "text": "I Sharma has a strike rate of 69.23 in the IPL dataset.",
+        "metadata": {
+            "player": "I Sharma",
+            "strike_rate": 69.23,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_108",
+        "text": "RA Jadeja has a strike rate of 138.98 in the IPL dataset.",
+        "metadata": {
+            "player": "RA Jadeja",
+            "strike_rate": 138.98,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_109",
+        "text": "AJ Tye has a strike rate of 186.67 in the IPL dataset.",
+        "metadata": {
+            "player": "AJ Tye",
+            "strike_rate": 186.67,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_110",
+        "text": "KS Williamson has a strike rate of 166.67 in the IPL dataset.",
+        "metadata": {
+            "player": "KS Williamson",
+            "strike_rate": 166.67,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_111",
+        "text": "SE Marsh has a strike rate of 138.38 in the IPL dataset.",
+        "metadata": {
+            "player": "SE Marsh",
+            "strike_rate": 138.38,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_112",
+        "text": "Shakib Al Hasan has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "Shakib Al Hasan",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_113",
+        "text": "JP Faulkner has a strike rate of 96.67 in the IPL dataset.",
+        "metadata": {
+            "player": "JP Faulkner",
+            "strike_rate": 96.67,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_114",
+        "text": "MG Johnson has a strike rate of 233.33 in the IPL dataset.",
+        "metadata": {
+            "player": "MG Johnson",
+            "strike_rate": 233.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_115",
+        "text": "K Rabada has a strike rate of 88.24 in the IPL dataset.",
+        "metadata": {
+            "player": "K Rabada",
+            "strike_rate": 88.24,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_116",
+        "text": "AD Nath has a strike rate of 0.0 in the IPL dataset.",
+        "metadata": {
+            "player": "AD Nath",
+            "strike_rate": 0.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_117",
+        "text": "NM Coulter-Nile has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "NM Coulter-Nile",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_118",
+        "text": "Kuldeep Yadav has a strike rate of 90.91 in the IPL dataset.",
+        "metadata": {
+            "player": "Kuldeep Yadav",
+            "strike_rate": 90.91,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_119",
+        "text": "UT Yadav has a strike rate of 80.0 in the IPL dataset.",
+        "metadata": {
+            "player": "UT Yadav",
+            "strike_rate": 80.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_120",
+        "text": "Washington Sundar has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "Washington Sundar",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_121",
+        "text": "KV Sharma has a strike rate of 132.43 in the IPL dataset.",
+        "metadata": {
+            "player": "KV Sharma",
+            "strike_rate": 132.43,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_122",
+        "text": "DM Bravo has a strike rate of 120.0 in the IPL dataset.",
+        "metadata": {
+            "player": "DM Bravo",
+            "strike_rate": 120.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_123",
+        "text": "AR Bawne has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "AR Bawne",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_124",
+        "text": "SP Jackson has a strike rate of 122.58 in the IPL dataset.",
+        "metadata": {
+            "player": "SP Jackson",
+            "strike_rate": 122.58,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_125",
+        "text": "MJ Guptill has a strike rate of 151.14 in the IPL dataset.",
+        "metadata": {
+            "player": "MJ Guptill",
+            "strike_rate": 151.14,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_126",
+        "text": "Anureet Singh has a strike rate of 125.0 in the IPL dataset.",
+        "metadata": {
+            "player": "Anureet Singh",
+            "strike_rate": 125.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_127",
+        "text": "IK Pathan has a strike rate of 66.67 in the IPL dataset.",
+        "metadata": {
+            "player": "IK Pathan",
+            "strike_rate": 66.67,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_128",
+        "text": "Ankit Soni has a strike rate of 100.0 in the IPL dataset.",
+        "metadata": {
+            "player": "Ankit Soni",
+            "strike_rate": 100.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_129",
+        "text": "JJ Bumrah has a strike rate of 133.33 in the IPL dataset.",
+        "metadata": {
+            "player": "JJ Bumrah",
+            "strike_rate": 133.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_130",
+        "text": "SL Malinga has a strike rate of 233.33 in the IPL dataset.",
+        "metadata": {
+            "player": "SL Malinga",
+            "strike_rate": 233.33,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_131",
+        "text": "PJ Sangwan has a strike rate of 50.0 in the IPL dataset.",
+        "metadata": {
+            "player": "PJ Sangwan",
+            "strike_rate": 50.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_132",
+        "text": "S Kaul has a strike rate of 0.0 in the IPL dataset.",
+        "metadata": {
+            "player": "S Kaul",
+            "strike_rate": 0.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_133",
+        "text": "LMP Simmons has a strike rate of 137.25 in the IPL dataset.",
+        "metadata": {
+            "player": "LMP Simmons",
+            "strike_rate": 137.25,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_134",
+        "text": "MN Samuels has a strike rate of 93.75 in the IPL dataset.",
+        "metadata": {
+            "player": "MN Samuels",
+            "strike_rate": 93.75,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_135",
+        "text": "Swapnil Singh has a strike rate of 63.16 in the IPL dataset.",
+        "metadata": {
+            "player": "Swapnil Singh",
+            "strike_rate": 63.16,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_136",
+        "text": "R Tewatia has a strike rate of 181.82 in the IPL dataset.",
+        "metadata": {
+            "player": "R Tewatia",
+            "strike_rate": 181.82,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_137",
+        "text": "MM Patel has a strike rate of 0.0 in the IPL dataset.",
+        "metadata": {
+            "player": "MM Patel",
+            "strike_rate": 0.0,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_138",
+        "text": "SS Tiwary has a strike rate of 123.91 in the IPL dataset.",
+        "metadata": {
+            "player": "SS Tiwary",
+            "strike_rate": 123.91,
+            "type": "strike_rate"
+        }
+    },
+    {
+        "id": "strike_rate_139",
+        "text": "TA Boult has a strike rate of 62.5 in the IPL dataset.",
+        "metadata": {
+            "player": "TA Boult",
+            "strike_rate": 62.5,
+            "type": "strike_rate"
+        }
+    }
+]
