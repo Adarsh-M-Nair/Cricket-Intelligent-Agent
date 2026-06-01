@@ -3,18 +3,29 @@ from rag.prompt_builder import build_prompt
 from rag.generator import generate_response
 
 
-def ask_cricket_agent(question: str):
+def ask_cricket_agent(
+    question: str,
+    top_k: int = 3
+):
 
-    # Step 1: Retrieve context
-    retrieved_chunks = retrieve_context(question)
+    retrieved_chunks = retrieve_context(
+    question,
+    n_results=top_k
+)
 
-    # Step 2: Build grounded prompt
+    if not retrieved_chunks:
+
+        return {
+            "question": question,
+            "answer": "No relevant cricket information found.",
+            "sources": []
+        }
+
     prompt = build_prompt(
         question,
         retrieved_chunks
     )
 
-    # Step 3: Generate AI response
     answer = generate_response(prompt)
 
     return {
