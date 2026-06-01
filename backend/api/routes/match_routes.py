@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from backend.utils.stats import get_match_summary
+from utils.stats import get_match_summary
 
 router = APIRouter(
     prefix="/match",

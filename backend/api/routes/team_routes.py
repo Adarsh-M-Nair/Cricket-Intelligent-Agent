@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from backend.utils.stats import (
+from utils.stats import (
     get_match_count,
     get_team_win_percentage
 )

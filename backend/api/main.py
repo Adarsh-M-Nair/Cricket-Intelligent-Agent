@@ -1,10 +1,10 @@
 from fastapi import FastAPI
 
-from backend.api.routes.player_routes import router as player_router
-from backend.api.routes.team_routes import router as team_router
-from backend.api.routes.match_routes import router as match_router
-from backend.api.routes.stats_routes import router as stats_router
-
+from api.routes.player_routes import router as player_router
+from api.routes.team_routes import router as team_router
+from api.routes.match_routes import router as match_router
+from api.routes.stats_routes import router as stats_router
+from api.routes.rag_routes import router as rag_router
 
 # ---------------------------------------------------
 # Create FastAPI App
@@ -34,9 +34,7 @@ def home():
 # ---------------------------------------------------
 
 app.include_router(player_router)
-
 app.include_router(team_router)
-
 app.include_router(match_router)
-
 app.include_router(stats_router)
+app.include_router(rag_router)

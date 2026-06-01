@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from backend.utils.stats import (
+from utils.stats import (
     get_total_runs,
     get_strike_rate
 )

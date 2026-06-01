@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from backend.utils.stats import get_top_batters
+from utils.stats import get_top_batters
 
 router = APIRouter(
     prefix="/stats",
