@@ -4,6 +4,18 @@ from backend.tools.player_tools import (
     player_runs_tool,
     player_strike_rate_tool
 )
+from backend.utils.entity_extractor import extract_player_name
+
+
+def extract_entities_node(state):
+
+    player_name = extract_player_name(
+        state["question"]
+    )
+
+    state["player_name"] = player_name
+
+    return state
 
 # ----------------------------------
 # Router Node
@@ -37,17 +49,25 @@ def stats_node(state: AgentState):
 
     question = state["question"].lower()
 
+    player_name = state["player_name"]
+
     if "strike rate" in question:
 
         result = player_strike_rate_tool(
-            "Virat Kohli"
+            player_name
+        )
+
+    elif "runs" in question:
+
+        result = player_runs_tool(
+            player_name
         )
 
     else:
 
-        result = player_runs_tool(
-            "Virat Kohli"
-        )
+        result = {
+            "message": "Unsupported stats query"
+        }
 
     state["tool_output"] = result
 

@@ -21,7 +21,7 @@ print(result)
 
 result = graph.invoke(
     {
-        "question": "Tell me about Virat Kohli IPL career"
+        "question": "What is Rohit Sharma's strike rate?"
     }
 )
 
