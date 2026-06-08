@@ -11,4 +11,4 @@ result = graph.invoke(
 )
 
 print("\nRESULT:")
-print(result)
+print(result["final_answer"])

@@ -6,7 +6,7 @@ from backend.tools.player_tools import (
 )
 from backend.utils.entity_extractor import extract_player_name
 from backend.rag.retriever import retrieve_context
-
+import ollama
 
 def extract_entities_node(state):
 
@@ -89,5 +89,42 @@ def rag_node(state: AgentState):
         "source": "rag",
         "chunks": retrieved_chunks
     }
+
+    return state
+def answer_node(state: AgentState):
+
+    question = state["question"]
+
+    tool_output = state["tool_output"]
+
+    prompt = f"""
+You are an expert cricket analyst.
+
+Question:
+{question}
+
+Data:
+{tool_output}
+
+Answer the question using ONLY the provided data.
+
+If the data is insufficient, say so.
+
+Provide a concise and natural answer.
+"""
+
+    response = ollama.chat(
+        model="mistral",
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+
+    state["final_answer"] = (
+        response["message"]["content"]
+    )
 
     return state
