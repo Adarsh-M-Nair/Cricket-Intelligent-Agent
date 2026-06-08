@@ -5,6 +5,7 @@ from backend.tools.player_tools import (
     player_strike_rate_tool
 )
 from backend.utils.entity_extractor import extract_player_name
+from backend.rag.retriever import retrieve_context
 
 
 def extract_entities_node(state):
@@ -75,14 +76,18 @@ def stats_node(state: AgentState):
 
 
 # ----------------------------------
-# RAG Node (Temporary)
+# RAG Node 
 # ----------------------------------
 
 def rag_node(state: AgentState):
 
+    question = state["question"]
+
+    retrieved_chunks = retrieve_context(question)
+
     state["tool_output"] = {
         "source": "rag",
-        "message": "RAG Search Executed"
+        "chunks": retrieved_chunks
     }
 
     return state

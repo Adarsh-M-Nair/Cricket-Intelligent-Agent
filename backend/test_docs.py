@@ -2,4 +2,6 @@ from backend.rag.chroma_manager import get_collection
 
 collection = get_collection()
 
-print("Collection count:", collection.count())
+results = collection.get(limit=5)
+
+print(results)

@@ -1,5 +1,5 @@
-from rag.embedder import generate_embedding
-from rag.chroma_manager import get_collection
+from backend.rag.embedder import generate_embedding
+from backend.rag.chroma_manager import get_collection
 
 collection = get_collection()
 
