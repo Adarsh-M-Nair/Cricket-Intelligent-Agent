@@ -6,7 +6,7 @@ from .graph import graph
 
 result = graph.invoke(
     {
-        "question": "Tell me about Virat Kohli IPL career"
+       "question": "Analyze Virat Kohli IPL career"
     }
 )
 
