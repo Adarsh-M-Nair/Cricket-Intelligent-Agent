@@ -12,9 +12,34 @@ export default function ChatWindow() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [question, setQuestion] = useState("");
   const [loading, setLoading] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
+  // Load chat history on startup
+  useEffect(() => {
+    const savedMessages = localStorage.getItem(
+      "cricket-chat-history"
+    );
+
+    if (savedMessages) {
+      setMessages(JSON.parse(savedMessages));
+    }
+
+    setIsLoaded(true);
+  }, []);
+
+  // Save chat history whenever messages change
+  useEffect(() => {
+    if (!isLoaded) return;
+
+    localStorage.setItem(
+      "cricket-chat-history",
+      JSON.stringify(messages)
+    );
+  }, [messages, isLoaded]);
+
+  // Auto scroll to latest message
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({
       behavior: "smooth",
@@ -22,7 +47,7 @@ export default function ChatWindow() {
   }, [messages, loading]);
 
   async function handleSend() {
-    if (!question.trim()) return;
+    if (!question.trim() || loading) return;
 
     const userMessage: Message = {
       id: Date.now(),
@@ -54,7 +79,8 @@ export default function ChatWindow() {
         {
           id: Date.now() + 2,
           role: "assistant",
-          content: "Error contacting Cricket Agent",
+          content:
+            "Error contacting Cricket Intelligence Agent.",
         },
       ]);
     } finally {
@@ -62,19 +88,42 @@ export default function ChatWindow() {
     }
   }
 
+  function handleNewChat() {
+    setMessages([]);
+    localStorage.removeItem(
+      "cricket-chat-history"
+    );
+  }
+
   return (
     <div className="flex flex-col h-screen bg-black text-white">
 
       {/* Header */}
-      <header className="border-b border-gray-800 px-6 py-4">
+      <header className="border-b border-gray-800 px-6 py-4 flex justify-between items-center">
 
-        <h1 className="text-2xl font-bold">
-          🏏 Cricket Intelligence Agent
-        </h1>
+        <div>
+          <h1 className="text-2xl font-bold">
+            🏏 Cricket Intelligence Agent
+          </h1>
 
-        <p className="text-sm text-gray-400">
-          Powered by Ollama + Mistral + RAG + LangGraph
-        </p>
+          <p className="text-sm text-gray-400">
+            Powered by Ollama + Mistral + RAG + LangGraph
+          </p>
+        </div>
+
+        <button
+          onClick={handleNewChat}
+          className="
+            px-4
+            py-2
+            rounded-lg
+            bg-gray-800
+            hover:bg-gray-700
+            text-sm
+          "
+        >
+          New Chat
+        </button>
 
       </header>
 
@@ -85,7 +134,9 @@ export default function ChatWindow() {
         {messages.length === 0 && !loading && (
           <div className="flex flex-col items-center justify-center h-full text-center">
 
-            <div className="text-6xl mb-4">🏏</div>
+            <div className="text-6xl mb-4">
+              🏏
+            </div>
 
             <h1 className="text-4xl font-bold mb-4">
               Cricket Intelligence Agent
@@ -99,13 +150,21 @@ export default function ChatWindow() {
 
             <div className="space-y-3 text-gray-400">
 
-              <p>• Who scored the most runs in IPL 2016?</p>
+              <p>
+                • Who scored the most runs in IPL 2016?
+              </p>
 
-              <p>• Show Virat Kohli's batting statistics</p>
+              <p>
+                • Show Virat Kohli's batting statistics
+              </p>
 
-              <p>• Which team won IPL 2023?</p>
+              <p>
+                • Which team won IPL 2023?
+              </p>
 
-              <p>• Compare Rohit Sharma and Virat Kohli</p>
+              <p>
+                • Compare Rohit Sharma and Virat Kohli
+              </p>
 
             </div>
 
@@ -120,10 +179,10 @@ export default function ChatWindow() {
           />
         ))}
 
-        {/* Loading */}
+        {/* Loading Indicator */}
         {loading && <TypingIndicator />}
 
-        {/* Auto Scroll Anchor */}
+        {/* Scroll Anchor */}
         <div ref={messagesEndRef} />
 
       </div>
