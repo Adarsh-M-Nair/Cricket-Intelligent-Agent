@@ -3,9 +3,10 @@
 import { useState, useEffect, useRef } from "react";
 
 import MessageBubble from "./MessageBubble";
+import TypingIndicator from "./TypingIndicator";
+
 import { Message } from "@/types/chat";
 import { askAgent } from "@/lib/chat";
-import TypingIndicator from "./TypingIndicator";
 
 export default function ChatWindow() {
   const [messages, setMessages] = useState<Message[]>([]);
@@ -62,10 +63,23 @@ export default function ChatWindow() {
   }
 
   return (
-    <div className="flex flex-col h-screen p-6">
+    <div className="flex flex-col h-screen bg-black text-white">
+
+      {/* Header */}
+      <header className="border-b border-gray-800 px-6 py-4">
+
+        <h1 className="text-2xl font-bold">
+          🏏 Cricket Intelligence Agent
+        </h1>
+
+        <p className="text-sm text-gray-400">
+          Powered by Ollama + Mistral + RAG + LangGraph
+        </p>
+
+      </header>
 
       {/* Chat Area */}
-      <div className="flex-1 overflow-y-auto space-y-4">
+      <div className="flex-1 overflow-y-auto p-6 space-y-4">
 
         {/* Welcome Screen */}
         {messages.length === 0 && !loading && (
@@ -77,29 +91,21 @@ export default function ChatWindow() {
               Cricket Intelligence Agent
             </h1>
 
-            <p className="text-gray-400 mb-8 max-w-2xl">
+            <p className="text-gray-300 mb-8 max-w-2xl">
               Ask anything about cricket statistics,
               players, teams, matches, IPL history,
               and performance analysis.
             </p>
 
-            <div className="space-y-3 text-gray-500">
+            <div className="space-y-3 text-gray-400">
 
-              <p>
-                • Who scored the most runs in IPL 2016?
-              </p>
+              <p>• Who scored the most runs in IPL 2016?</p>
 
-              <p>
-                • Show Virat Kohli's batting statistics
-              </p>
+              <p>• Show Virat Kohli's batting statistics</p>
 
-              <p>
-                • Which team won IPL 2023?
-              </p>
+              <p>• Which team won IPL 2023?</p>
 
-              <p>
-                • Compare Rohit Sharma and Virat Kohli
-              </p>
+              <p>• Compare Rohit Sharma and Virat Kohli</p>
 
             </div>
 
@@ -114,7 +120,7 @@ export default function ChatWindow() {
           />
         ))}
 
-        {/* Loading Indicator */}
+        {/* Loading */}
         {loading && <TypingIndicator />}
 
         {/* Auto Scroll Anchor */}
@@ -123,29 +129,51 @@ export default function ChatWindow() {
       </div>
 
       {/* Input Section */}
-      <div className="flex gap-2 mt-4">
+      <div className="border-t border-gray-800 p-4">
 
-        <input
-          value={question}
-          onChange={(e) =>
-            setQuestion(e.target.value)
-          }
-          placeholder="Ask a cricket question..."
-          className="flex-1 border rounded p-3"
-          onKeyDown={(e) => {
-            if (e.key === "Enter") {
-              handleSend();
+        <div className="flex gap-3">
+
+          <input
+            value={question}
+            onChange={(e) =>
+              setQuestion(e.target.value)
             }
-          }}
-        />
+            placeholder="Ask a cricket question..."
+            className="
+              flex-1
+              rounded-xl
+              border
+              border-gray-700
+              bg-gray-900
+              px-4
+              py-3
+              text-white
+              outline-none
+            "
+            onKeyDown={(e) => {
+              if (e.key === "Enter") {
+                handleSend();
+              }
+            }}
+          />
 
-        <button
-          onClick={handleSend}
-          disabled={loading}
-          className="bg-black text-white px-5 py-3 rounded disabled:opacity-50"
-        >
-          Send
-        </button>
+          <button
+            onClick={handleSend}
+            disabled={loading}
+            className="
+              px-6
+              py-3
+              rounded-xl
+              bg-blue-600
+              hover:bg-blue-700
+              text-white
+              disabled:opacity-50
+            "
+          >
+            Send
+          </button>
+
+        </div>
 
       </div>
 
