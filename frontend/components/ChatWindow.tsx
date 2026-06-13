@@ -42,9 +42,8 @@ export default function ChatWindow() {
       const botMessage: Message = {
         id: Date.now() + 1,
         role: "assistant",
-        content:
-          result.answer ||
-          JSON.stringify(result, null, 2),
+        content: result.answer,
+        sources: result.sources ?? [],
       };
 
       setMessages((prev) => [...prev, botMessage]);
