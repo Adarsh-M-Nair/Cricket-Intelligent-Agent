@@ -4,9 +4,10 @@ import { useState, useEffect, useRef } from "react";
 
 import MessageBubble from "./MessageBubble";
 import TypingIndicator from "./TypingIndicator";
+import Sidebar from "./Sidebar";
 
 import { Message } from "@/types/chat";
-import { askAgent } from "@/lib/chat";
+import { askAgent } from "@/lib/chat"; 
 
 export default function ChatWindow() {
   const [messages, setMessages] = useState<Message[]>([]);
@@ -94,9 +95,14 @@ export default function ChatWindow() {
       "cricket-chat-history"
     );
   }
+return (
+  <div className="flex h-screen bg-black text-white">
 
-  return (
-    <div className="flex flex-col h-screen bg-black text-white">
+    {/* Sidebar */}
+    <Sidebar onNewChat={handleNewChat} />
+
+    {/* Main Content */}
+    <div className="flex flex-col flex-1">
 
       {/* Header */}
       <header className="border-b border-gray-800 px-6 py-4 flex justify-between items-center">
@@ -111,26 +117,11 @@ export default function ChatWindow() {
           </p>
         </div>
 
-        <button
-          onClick={handleNewChat}
-          className="
-            px-4
-            py-2
-            rounded-lg
-            bg-gray-800
-            hover:bg-gray-700
-            text-sm
-          "
-        >
-          New Chat
-        </button>
-
       </header>
 
       {/* Chat Area */}
       <div className="flex-1 overflow-y-auto p-6 space-y-4">
 
-        {/* Welcome Screen */}
         {messages.length === 0 && !loading && (
           <div className="flex flex-col items-center justify-center h-full text-center">
 
@@ -149,29 +140,15 @@ export default function ChatWindow() {
             </p>
 
             <div className="space-y-3 text-gray-400">
-
-              <p>
-                • Who scored the most runs in IPL 2016?
-              </p>
-
-              <p>
-                • Show Virat Kohli's batting statistics
-              </p>
-
-              <p>
-                • Which team won IPL 2023?
-              </p>
-
-              <p>
-                • Compare Rohit Sharma and Virat Kohli
-              </p>
-
+              <p>• Who scored the most runs in IPL 2016?</p>
+              <p>• Show Virat Kohli's batting statistics</p>
+              <p>• Which team won IPL 2023?</p>
+              <p>• Compare Rohit Sharma and Virat Kohli</p>
             </div>
 
           </div>
         )}
 
-        {/* Messages */}
         {messages.map((msg) => (
           <MessageBubble
             key={msg.id}
@@ -179,10 +156,8 @@ export default function ChatWindow() {
           />
         ))}
 
-        {/* Loading Indicator */}
         {loading && <TypingIndicator />}
 
-        {/* Scroll Anchor */}
         <div ref={messagesEndRef} />
 
       </div>
@@ -237,5 +212,7 @@ export default function ChatWindow() {
       </div>
 
     </div>
-  );
+
+  </div>
+);
 }

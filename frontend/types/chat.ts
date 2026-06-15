@@ -10,3 +10,10 @@ export interface Message {
   content: string;
   sources?: Source[];
 }
+
+export interface Conversation {
+  id: string;
+  title: string;
+  messages: Message[];
+  createdAt: number;
+}
